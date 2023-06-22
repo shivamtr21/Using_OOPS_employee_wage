@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Day-2\employee_Wage\Using_OOPS_Employee_Wage\Using_OOPS_Employee_Wage\bin\Debug\net6.0\Using_OOPS_Employee_Wage.exe
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Day-2\employee_Wage\Using_OOPS_Employee_Wage\Using_OOPS_Employee_Wage\bin\Debug\net6.0\Using_OOPS_Employee_Wage.deps.json
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Day-2\employee_Wage\Using_OOPS_Employee_Wage\Using_OOPS_Employee_Wage\bin\Debug\net6.0\Using_OOPS_Employee_Wage.runtimeconfig.json
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Day-2\employee_Wage\Using_OOPS_Employee_Wage\Using_OOPS_Employee_Wage\bin\Debug\net6.0\Using_OOPS_Employee_Wage.dll
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Day-2\employee_Wage\Using_OOPS_Employee_Wage\Using_OOPS_Employee_Wage\bin\Debug\net6.0\Using_OOPS_Employee_Wage.pdb
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Day-2\employee_Wage\Using_OOPS_Employee_Wage\Using_OOPS_Employee_Wage\obj\Debug\net6.0\Using_OOPS_Employee_Wage.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Day-2\employee_Wage\Using_OOPS_Employee_Wage\Using_OOPS_Employee_Wage\obj\Debug\net6.0\Using_OOPS_Employee_Wage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Day-2\employee_Wage\Using_OOPS_Employee_Wage\Using_OOPS_Employee_Wage\obj\Debug\net6.0\Using_OOPS_Employee_Wage.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Day-2\employee_Wage\Using_OOPS_Employee_Wage\Using_OOPS_Employee_Wage\obj\Debug\net6.0\Using_OOPS_Employee_Wage.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Day-2\employee_Wage\Using_OOPS_Employee_Wage\Using_OOPS_Employee_Wage\obj\Debug\net6.0\Using_OOPS_Employee_Wage.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Day-2\employee_Wage\Using_OOPS_Employee_Wage\Using_OOPS_Employee_Wage\obj\Debug\net6.0\Using_OOPS_Employee_Wage.dll
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Day-2\employee_Wage\Using_OOPS_Employee_Wage\Using_OOPS_Employee_Wage\obj\Debug\net6.0\refint\Using_OOPS_Employee_Wage.dll
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Day-2\employee_Wage\Using_OOPS_Employee_Wage\Using_OOPS_Employee_Wage\obj\Debug\net6.0\Using_OOPS_Employee_Wage.pdb
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Day-2\employee_Wage\Using_OOPS_Employee_Wage\Using_OOPS_Employee_Wage\obj\Debug\net6.0\Using_OOPS_Employee_Wage.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Day-2\employee_Wage\Using_OOPS_Employee_Wage\Using_OOPS_Employee_Wage\obj\Debug\net6.0\ref\Using_OOPS_Employee_Wage.dll
