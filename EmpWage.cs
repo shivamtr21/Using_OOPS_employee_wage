@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -8,11 +9,12 @@ namespace Using_OOPS_Employee_Wage
 {
     public class EmpWage
     {
+        public const int IS_FULL_TIME = 1;
+        public const int IS_PART_TIME = 2;
+        public const int EMP_WAGE_PER_HOUR = 20;
         public void Wage()
         {
-            int IS_FULL_TIME = 1;
-            int IS_PART_TIME = 2;
-            int EMP_WAGE_PER_HOUR = 20;
+           
 
             int empHrs = 0;
             int empWage = 0;
@@ -20,29 +22,33 @@ namespace Using_OOPS_Employee_Wage
             Random random = new Random();
 
             int result = random.Next(3);
+ 
 
-
-            if (result == IS_FULL_TIME)
+            switch (result)
             {
-                Console.WriteLine("Employee is Present");
+                case IS_PART_TIME:
+                    Console.WriteLine("Employee is present for part time");
+                    empHrs = 4;
+                    break;
 
-                empHrs = 8;
-            }
+                case IS_FULL_TIME:
+                    Console.WriteLine("Employee is present for full time");
+                    empHrs = 8;
+                    break;
 
-            else if(result == IS_PART_TIME)
-            {
-                Console.WriteLine("Employee is present for part time");
-                empHrs = 4;
-            }
-            else
-            {
-                Console.WriteLine("Employee is Absent");
-                empHrs = 0;
+                default:
+                    Console.WriteLine("Employee is absent");
+                    empHrs = 0;
+                    break;
             }
 
             empWage = empHrs * EMP_WAGE_PER_HOUR;
 
             Console.WriteLine("Emp Wage : " + empWage);
+
+
+
+
 
         }
     }
