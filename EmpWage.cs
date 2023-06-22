@@ -11,6 +11,7 @@ namespace Using_OOPS_Employee_Wage
         public void Wage()
         {
             int IS_FULL_TIME = 1;
+            int IS_PART_TIME = 2;
             int EMP_WAGE_PER_HOUR = 20;
 
             int empHrs = 0;
@@ -18,7 +19,7 @@ namespace Using_OOPS_Employee_Wage
 
             Random random = new Random();
 
-            int result = random.Next(2);
+            int result = random.Next(3);
 
 
             if (result == IS_FULL_TIME)
@@ -26,6 +27,12 @@ namespace Using_OOPS_Employee_Wage
                 Console.WriteLine("Employee is Present");
 
                 empHrs = 8;
+            }
+
+            else if(result == IS_PART_TIME)
+            {
+                Console.WriteLine("Employee is present for part time");
+                empHrs = 4;
             }
             else
             {
